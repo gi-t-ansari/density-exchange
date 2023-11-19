@@ -1,0 +1,13 @@
+.frame8-container {
+    padding: 60px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+
+}
+
+.frame8-container h1 {
+    font-size: 72px;
+    margin: 0;
+}

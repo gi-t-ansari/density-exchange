@@ -1,0 +1,42 @@
+.hero-container {
+    padding: 80px 0px 120px 0px;
+    text-align: center;
+}
+
+.hero-heading {
+    font-size: 96px;
+    font-weight: 700;
+    margin: 0px 0px 40px 0px;
+
+}
+
+.hero-heading span {
+    background: linear-gradient(85.85deg, #D4F938 23.09%, #32D875 108.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero-paragraph {
+    font-size: 24px;
+    color: #E7E7EA;
+    letter-spacing: 0.5px;
+    margin: 0px 0px 90px 0px;
+}
+
+.hero-img-container {
+    height: 580.7px;
+    border-radius: 100%;
+    box-shadow: 0px 0px 200px 0px #163d23;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.hero-img-container img {
+    position: relative;
+    bottom: 50px;
+    width: 779.59px;
+    height: 668.7px;
+    z-index: 1;
+    margin-top: 10px;
+}

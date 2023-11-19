@@ -1,0 +1,37 @@
+.frame5-container {
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.frame5-container h1 {
+    font-size: 72px;
+    margin: 0;
+}
+
+.frame5-container h1 span {
+    color: #EBFF25;
+}
+
+.frame5-container p {
+    font-size: 24px;
+    color: #E7E7EA;
+}
+
+.frame5-sub-container {
+    margin: 60px auto;
+    width: 1000px;
+    padding: 30px;
+    border: 1px solid #FFFFFF40;
+    border-radius: 8px;
+}
+
+.frame5-sub-container p {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.frame5-vectors {
+    width: 1px;
+    background-color: #A9A9A9;
+}

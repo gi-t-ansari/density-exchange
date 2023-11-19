@@ -1,0 +1,63 @@
+.frame9-container {
+    padding: 60px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    background-color: #fff;
+    color: #000;
+}
+
+.frame9-container > h1 {
+    font-size: 72px;
+    margin: 0;
+}
+
+.frame9-container > p {
+    font-size: 24px;
+    margin: 0;
+    opacity: 0.8;
+}
+
+.frame9-container section {
+    display: flex;
+    gap: 15px;
+}
+
+.frame9-container section article {
+    width: 362px;
+    text-align: left;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    position: relative;
+}
+
+.frame9-article-para {
+    font-size: 20px;
+    opacity: 0.8;
+}
+
+.frame9-article-author-name {
+    font-size: 28px;
+    margin: 0;
+}
+
+.frame9-article-author-position {
+    font-size: 15px;
+    opacity: 0.8;
+    margin: 0;
+}
+
+.author-img-container {
+    width: 120px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.author-img-container img {
+    width: 100%;
+    border-bottom-right-radius: 10px;
+}

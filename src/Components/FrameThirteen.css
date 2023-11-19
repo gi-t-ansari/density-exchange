@@ -1,0 +1,53 @@
+.frame13-container {
+    padding: 60px;
+    text-align: center;
+}
+
+.frame13-container > h1 {
+    background: linear-gradient(176.64deg, #FFFFFF 2.77%, rgba(255, 255, 255, 0) 139.85%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 130px;
+    margin: 0;
+}
+
+.frame13-container > section {
+    background-image: url("../Assets/frame13-phone.png");
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    position: relative;
+    bottom: 50px;
+    border-radius: 70px;
+
+}
+
+.frame13-logo-white-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 120px 0px;
+    font-size: 32px;
+}
+
+.start-trading-button {
+    height: 100px;
+    width: 600px;
+    background: linear-gradient(85.85deg, #D4F938 23.09%, #32D875 108.69%);
+    box-shadow: 0px 0px 16px 0px #A8EF9CCC;
+    padding: 16px 32px ;
+    color: #000;
+    font-size: 35px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    position: absolute;
+    bottom: 50px;
+    left: -50px;
+    border-radius: 10px;
+}

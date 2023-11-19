@@ -1,0 +1,8 @@
+.fame2-container {
+    padding: 120px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+    justify-content: center;
+    align-items: center;
+}

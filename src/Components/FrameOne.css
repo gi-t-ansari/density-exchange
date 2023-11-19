@@ -1,0 +1,35 @@
+.frame1-container {
+    padding: 0px 216px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.frame1-sub-container {
+    border: 1.5px solid;
+    border-image-source: linear-gradient(180deg, rgba(50, 216, 117, 0.24) 0%, rgba(226, 255, 111, 0.25) 121.93%);
+    box-shadow: 0px 0px 10px 0px #EBFF2533;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 40px;
+}
+
+.vector {
+    height: 120px;
+}
+
+.frame1-sub-container h3 {
+    font-size: 40px;
+    color: #EBFF25;
+    text-align: center;
+    margin: 0;
+}
+
+.frame1-sub-container p {
+    color: #A9A9A9;
+    font-size: 16px;
+    margin: 5px 0px 0px 0px;
+    text-align: center;
+}

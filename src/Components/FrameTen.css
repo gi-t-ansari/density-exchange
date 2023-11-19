@@ -1,0 +1,40 @@
+.frame10-container {
+    padding: 60px;
+    text-align: center;
+}
+
+.frame10-container > h1 {
+    font-size: 72px;
+    margin: 0;
+}
+
+.frame10-container > p {
+    font-size: 24px;
+}
+
+.frame10-container > h1 > span {
+    color: #EBFF25;
+}
+
+.frame10-container > section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 40px 0px;
+}
+
+.frame10-container > section article {
+    background-color: #19191D;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    text-align: left;
+    position: relative;
+}
+
+.frame10-container > section article > h5 {
+    font-size: 28px;
+    position: absolute;
+    bottom: 20px;
+}

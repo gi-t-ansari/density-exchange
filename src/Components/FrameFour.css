@@ -1,0 +1,30 @@
+.frame4-container {
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.frame4-container h1 {
+    font-size: 72px;
+    margin: 0;
+}
+
+.frame4-container h1 span {
+    color: #EBFF25;
+}
+
+.frame4-container p {
+    font-size: 24px;
+    color: #E7E7EA;
+}
+
+.frame5-sub-container {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #FFFFFF40;
+    border-radius: 8px;
+
+}
+
+.frame5-vectors {
+    width: 1px;
+}

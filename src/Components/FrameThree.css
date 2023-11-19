@@ -1,0 +1,64 @@
+.frame3-container {
+    padding: 50px 0px;
+}
+
+.frame3-container > h1 {
+    text-align: center;
+    font-size: 72px;
+    margin: 0;
+}
+
+.frame3-container > h1 span {
+    color: #EBFF25;
+}
+
+.frame3-container > p {
+    text-align: center;
+    font-size: 24px;
+    color: #E7E7EA;
+
+}
+
+.frame3-sub-container {
+    display: flex;
+    padding: 0px 150px;
+    justify-content: center;
+    gap: 24px;
+}
+
+.company-containers {
+    width: 250px;
+    height: 300px;
+    background: #19191D;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border-radius: 10px;
+}
+
+.company-containers p {
+    margin: 0;
+    font-size: 16px;
+    opacity: 0.6;
+}
+
+
+.frame3-sub-heading {
+    font-size: 32px;
+    margin: 0;
+}
+
+.density-container {
+    background: linear-gradient(179.64deg, #DAF760 -1.86%, rgba(50, 216, 117, 0.96) 146.77%);
+    color: #000;
+}
+
+.density-container p {
+    color: #000;
+    opacity: 0.9;
+}
+

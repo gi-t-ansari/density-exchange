@@ -1,0 +1,63 @@
+.frame12-container {
+    padding: 60px;
+    text-align: center;
+    background-color: #19191D;
+
+}
+
+.frame12-container > h1 {
+    font-size: 72px;
+    margin: 0;
+}
+
+.frame12-container > h1 span {
+    color: #EBFF25;
+}
+
+.frame12-container > p {
+    font-size: 24px;
+    color: #E7E7EA;
+}
+
+.frame12-container > section {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 40px 0px;
+}
+
+.frame12-container > section article {
+    background-image: url("../Assets/frame12-article-background.png");
+    background-position: center;
+    background-size: cover;
+    width: 323px;
+    height: 360px;
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame12-container > section article > h5 {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.frame12-container > section article > p {
+    font-size: 14px;
+    color: #BBBBC3;
+}
+
+.frame12-founders {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.linkedin-logo {
+    position: absolute;
+    bottom: 20px;
+    cursor: pointer;
+}

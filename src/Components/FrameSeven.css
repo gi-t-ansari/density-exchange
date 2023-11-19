@@ -1,0 +1,49 @@
+.frame7-container {
+    padding: 60px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.frame7-container > h1 {
+    font-size: 72px;
+    margin: 0;
+}
+
+.frame7-container > h1 > span {
+    color: #EBFF25;
+}
+
+.frame7-container section {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.frame7-divider {
+    width: 1000px;
+    height: 1px;
+    background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 53.12%, rgba(255, 255, 255, 0) 100%);
+}
+
+.frame7-container section article {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    gap: 20px;
+}
+
+.frame7-container section article h2 {
+    font-size: 40px;
+    margin: 0;
+    font-weight: 400;
+}
+
+.frame7-container section article p {
+    font-size: 16px;
+    margin: 0;
+    color: #a9a9a9;
+}
